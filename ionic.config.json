@@ -1,0 +1,7 @@
+{
+  "name": "samuelville-transit",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
